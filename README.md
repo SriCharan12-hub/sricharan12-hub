@@ -83,6 +83,9 @@
 ## 📊 GitHub Stats
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SriCharan12-hub&theme=tokyonight)
 
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=SriCharan12-hub&theme=tokyonight&hide_border=true)
+
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SriCharan12-hub&theme=tokyonight)
 
