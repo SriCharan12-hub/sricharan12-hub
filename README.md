@@ -13,7 +13,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌍 My Presence
 🔗 [Instagram](https://www.instagram.com/wildcharan/?__pwa=1)  
 🔗 [LinkedIn](https://www.linkedin.com/in/sri-charan-palem)  
 🔗 [LeetCode](https://leetcode.com/u/Sricharan-122/)  
