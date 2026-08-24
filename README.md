@@ -105,7 +105,7 @@ Contributed to the development and maintenance of **Algo-Infinity-Verse**, an op
 - **System Design Fundamentals**
 - **Operating Systems (OS)**
 - **Database Management Systems (DBMS)**
-- **Networking **
+- **Networking**
 - **Object-Oriented Programming (OOP)**
 - **Software Development Life Cycle (SDLC)**
 - **REST API Design & Integration**
