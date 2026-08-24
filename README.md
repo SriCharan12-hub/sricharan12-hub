@@ -13,12 +13,35 @@
 🔥 Passionate about learning new technologies & building real-world projects  
 ⚡ I enjoy turning ideas into interactive web applications  
 
+
+
+## 🌍 Open Source Experience
+
+### 🚀 Social Summer of Code (SSoC) 2026
+
+**Project Admin — Algo-Infinity-Verse**
+
+Contributed to the development and maintenance of **Algo-Infinity-Verse**, an open-source platform focused on Data Structures & Algorithms, System Design, programming languages, and Computer Science fundamentals.
+
+* 🛠️ Worked on real-world features, bug fixes, security improvements, and platform enhancements.
+* 🧩 Contributed to interactive DSA visualizers, learning modules, quizzes, and developer tools.
+* ☁️ Worked on features involving Docker, Kubernetes, Kafka, authentication, and backend functionality.
+* 🔐 Addressed security and reliability issues across the platform.
+* 🤝 Collaborated with contributors and maintainers through GitHub-based open-source workflows.
+* 📚 Gained hands-on experience in large-scale collaborative development, code review, issue tracking, and Git workflows.
+
+🔗 [View Algo-Infinity-Verse](https://github.com/sricharan12-hub/Algo-Infinity-Verse)
+
+
+
 ---
 
-## 🌍 My Presence
-🔗 [Instagram](https://www.instagram.com/wildcharan/?__pwa=1)  
-🔗 [LinkedIn](https://www.linkedin.com/in/sri-charan-palem)  
-🔗 [LeetCode](https://leetcode.com/u/Sricharan-122/)  
+## 🌍 My Presence 
+🔗 [Instagram](https://www.instagram.com/wildcharan/?__pwa=1) 
+🔗 [LinkedIn](https://www.linkedin.com/in/sri-charan-palem) 
+🔗 [LeetCode](https://leetcode.com/u/Sricharan-122/)
+
+
 
 ---
 ## 🛠️ Tech Stack
@@ -78,21 +101,25 @@
 ---
 
 ## 🧠 Other Skills
-🌐 Networking Basics  
-🔐 Authentication & Security  
-📡 API Development  
+
+- **System Design Fundamentals**
+- **Operating Systems (OS)**
+- **Database Management Systems (DBMS)**
+- **Networking **
+- **Object-Oriented Programming (OOP)**
+- **Software Development Life Cycle (SDLC)**
+- **REST API Design & Integration**
+- **Authentication & Authorization**
+- **API Testing & Debugging**
+- **Version Control & Collaboration**
+
 
 ---
-
-## 🚀 Featured Projects
-💬 **ChatBox** – Real-time chat + video calling platform  
-🛒 **E-commerce UI** – Responsive design with filters & cart  
 
 ---
 ## 📊 GitHub Stats
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SriCharan12-hub&layout=compact&theme=tokyonight&langs_count=8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sricharan12-hub&show_icons=true&theme=default&hide_border=true)
 
 ## 🔥 GitHub Streak
 
